@@ -1,0 +1,32 @@
+{
+  "timestamp": 1764025714.1794634,
+  "frame_number": 49,
+  "frame_width": 640,
+  "frame_height": 480,
+  "inference_time_ms": 12.3,
+  "num_detections": 2,
+  "detections": [
+    {
+      "bbox": [
+        355,
+        240,
+        219,
+        237
+      ],
+      "label": "person",
+      "class_id": 0,
+      "confidence": 0.539994478225708
+    },
+    {
+      "bbox": [
+        591,
+        187,
+        48,
+        90
+      ],
+      "label": "bottle",
+      "class_id": 39,
+      "confidence": 0.5556504726409912
+    }
+  ]
+}

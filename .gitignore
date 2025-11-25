@@ -1,0 +1,23 @@
+# Runtime outputs
+latest_frame.jpg
+*_output.jpg
+test*_output.jpg
+
+# Logs
+logs/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# TIDL artifacts (regenerated on first run)
+tidl_artifacts/
+
+# Large dependency (users clone separately)
+edgeai-tidl-tools/
+
+# System
+.DS_Store
+*.swp
